@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\bin\Release\03-SocketServidorDatos.exe.config
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\bin\Release\03-SocketServidorDatos.exe
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\bin\Release\03-SocketServidorDatos.pdb
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\obj\Release\03-SocketServidorDatos.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\obj\Release\_03_SocketServidorDatos.Form1.resources
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\obj\Release\_03_SocketServidorDatos.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\obj\Release\03-SocketServidorDatos.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\obj\Release\03-SocketServidorDatos.exe
+C:\Users\luis\Desktop\sockets2015\03-SocketServidorDatos\obj\Release\03-SocketServidorDatos.pdb

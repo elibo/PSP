@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\bin\Debug\05-ServidorTCPStream.exe.config
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\bin\Debug\05-ServidorTCPStream.exe
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\bin\Debug\05-ServidorTCPStream.pdb
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\obj\Debug\05-ServidorTCPStream.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\obj\Debug\_05_ServidorTCPStream.Form1.resources
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\obj\Debug\_05_ServidorTCPStream.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\obj\Debug\05-ServidorTCPStream.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\obj\Debug\05-ServidorTCPStream.exe
+C:\Users\luis\Desktop\sockets2015\05-ServidorTCPStream\obj\Debug\05-ServidorTCPStream.pdb

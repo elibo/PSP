@@ -1,0 +1,9 @@
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\bin\Debug\08-MultisocketClient.exe.config
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\bin\Debug\08-MultisocketClient.exe
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\bin\Debug\08-MultisocketClient.pdb
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\obj\Debug\08-MultisocketClient.csprojResolveAssemblyReference.cache
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\obj\Debug\_08_MultisocketClient.Form1.resources
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\obj\Debug\_08_MultisocketClient.Properties.Resources.resources
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\obj\Debug\08-MultisocketClient.csproj.GenerateResource.Cache
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\obj\Debug\08-MultisocketClient.exe
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\08-MultisocketClient\obj\Debug\08-MultisocketClient.pdb

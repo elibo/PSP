@@ -1,0 +1,15 @@
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\bin\Debug\01-HolaSocketServidor.exe.config
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\bin\Debug\01-HolaSocketServidor.exe
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\bin\Debug\01-HolaSocketServidor.pdb
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\obj\Debug\_01_HolaSocketServidor.Form1.resources
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\obj\Debug\_01_HolaSocketServidor.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.exe
+C:\Users\luis\Desktop\sockets2015\Sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.pdb
+C:\Users\luis\Desktop\sockets2015\01-HolaSocketServidor\bin\Debug\01-HolaSocketServidor.exe.config
+C:\Users\luis\Desktop\sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.exe
+C:\Users\luis\Desktop\sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.pdb
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\01-HolaSocketServidor\bin\Debug\01-HolaSocketServidor.exe.config
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.exe
+C:\Users\dam218\Desktop\dam\PSP\sockets2015\01-HolaSocketServidor\obj\Debug\01-HolaSocketServidor.pdb

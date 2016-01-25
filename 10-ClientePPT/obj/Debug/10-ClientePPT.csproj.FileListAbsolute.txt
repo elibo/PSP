@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\bin\Debug\10-ClientePPT.exe.config
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\bin\Debug\10-ClientePPT.exe
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\bin\Debug\10-ClientePPT.pdb
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\obj\Debug\10-ClientePPT.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\obj\Debug\_10_ClientePPT.Form1.resources
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\obj\Debug\_10_ClientePPT.Properties.Resources.resources
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\obj\Debug\10-ClientePPT.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\obj\Debug\10-ClientePPT.exe
+C:\Users\luis\Desktop\PSP\SOCKETS\10-ClientePPT\obj\Debug\10-ClientePPT.pdb
